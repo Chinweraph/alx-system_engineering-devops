@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..zka..z}|tr"""""ln"|grep-V "oo"
